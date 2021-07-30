@@ -13,7 +13,6 @@ export default function Navigation() {
                 <Nav className="navigation-bar">
                     <Nav.Link href="/">Home</Nav.Link>
                     <Nav.Link href="/addalbum">Add Album</Nav.Link>
-                    <Nav.Link href="/addreview">Add Review</Nav.Link>
                     <Nav.Link href='/albums'>Albums</Nav.Link>
                 </Nav>
             </Container>
